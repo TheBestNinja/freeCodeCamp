@@ -1,0 +1,8 @@
+  CSS flex boxes is a way to dinamicly positon itmes on your webpage.
+If you hard coded in a header on your website with a with of 100px it might look good on your monitor, but on a smaler devices you would 
+have to scroll to one side. With CSS flex boxes you can make a header that goes from one side to the other, and on a smaller divice it 
+still goes from one side to the other.
+
+  You can have the itmes in the header equally grow and shrink with the header, or have for instenc the home and blog itmes shrince but not 
+the searchbar.You can easily control the growth and shrinkage of any itmes in the searchbar.
+  CSS flex boxes are not that hard to learn if you already know CSS but it will greatly inprove your website.
