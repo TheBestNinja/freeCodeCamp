@@ -1,0 +1,3 @@
+  Percentagess insted of pixles are a great way to make your web pag more dinamice with no more efort.
+insted of makeing the width 600px make it 100% on your divce it might look the same but on a smaller dvice it will stil only be the
+width of the screen if you only want it to be half the screen put it at 50%, if you want it a corter of the screen make it 25%, etc.
